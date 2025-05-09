@@ -1,6 +1,10 @@
 streamlit
 biopython
 numpy
+py3Dmol
+langchain
+openai
+colabfold
 pandas
 matplotlib
 requests
